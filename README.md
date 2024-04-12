@@ -1,10 +1,9 @@
 # DomainMaster
-[图例](https://raw.githubusercontent.com/horizon365/DomainMaster/main/main.png)     
+  
 Easily switch domains between environments or search energies. Our extension will redirect you to an available website in seconds.
 
-[chrome应用商店](https://chromewebstore.google.com/detail/domain-master/pbpfhhnnhmhbcpolipadlglokclogaeh?utm_source=ext_app_menu)
+![图例](main.png)   
 
-[Firefox应用商店](https://addons.mozilla.org/zh-CN/firefox/addon/domain-master-and-ping/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search)
 
 它是干什么的？主要解决上网冲浪时的几大痛点。
 
@@ -30,3 +29,10 @@ Easily switch domains between environments or search energies. Our extension wil
 5. 支持通过订阅链接来更新配置
 
 Eat your own dog food。 吃自己的狗粮，之所以开发这个插件，主要就是为了自己工作中使用。也为了巩固自学的前端知识。所以之后没意外的话会一直更新。
+
+![newGitHub](newtoGitHub.jpg)
+
+下载地址  
+[chrome应用商店](https://chromewebstore.google.com/detail/domain-master/pbpfhhnnhmhbcpolipadlglokclogaeh?utm_source=ext_app_menu)
+
+[Firefox应用商店](https://addons.mozilla.org/zh-CN/firefox/addon/domain-master-and-ping/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search)
