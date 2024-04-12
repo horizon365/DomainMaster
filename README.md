@@ -1,4 +1,5 @@
 # DomainMaster
+[图例](main.png)     
 Easily switch domains between environments or search energies. Our extension will redirect you to an available website in seconds.
 
 [chrome应用商店](https://chromewebstore.google.com/detail/domain-master/pbpfhhnnhmhbcpolipadlglokclogaeh?utm_source=ext_app_menu)
